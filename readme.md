@@ -26,5 +26,5 @@ Aspiring Machine Learning Engineer and Data Science Enthusiast with a strong fou
 
 ## Contact  
 
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/chiranjan-yathish-2317b531a/)  
+- [LinkedIn](https://www.linkedin.com/in/chiranjan-yathish-2317b531a/)  
 - Email: chiranjan012@gmail.com
