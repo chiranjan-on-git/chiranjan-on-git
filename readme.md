@@ -6,7 +6,7 @@ Aspiring Machine Learning Engineer and Data Science Enthusiast with a strong fou
 
 ## About Me  
 
-- Third-year student at VIT  
+- Third-year Engineering student 
 - Strong background in data structures and algorithms  
 - Skilled in Python, C++, and Java  
 - Hands-on experience with machine learning frameworks and tools  
